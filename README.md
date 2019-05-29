@@ -15,4 +15,4 @@ Java, MySQL, Hibernate, Layered Architecture, IntelliJIdia, SceneBuilder
 
 ## License
 
-POS with Hibernate is MIT licensed, as found in the [License](https://github.com/DulminiMadumalika/HibernatePOS/blob/master/LICENSE).
+POS with Hibernate is MIT licensed.
